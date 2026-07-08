@@ -7,7 +7,7 @@ Student
 I have been learning to code for 3 years, I started with C, and now I learn to code HTML, CSS and JAVASCRIPT. I have a passion for frontend development.
 
 * 🌍  I'm based in Bankkok, Thailand
-* ✉️  You can contact me at [sr.chisanupong@gmail.com](mailto:sr.chisanupong@gmail.com)
+* ✉️  You can contact me at [srisaket246@gmail.com](mailto:srisaket246@gmail.com)
 * 🧠  I'm learning HTML, CSS and javascript
 * 🤝  I'm open to collaborating on Front end, IT
 
